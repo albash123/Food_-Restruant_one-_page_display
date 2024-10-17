@@ -1,0 +1,282 @@
+.navbar {
+  display: flex;
+  position: relative;
+}
+
+.logos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.icon {
+  position: absolute;
+  width: 70px;
+  height: auto;
+  left: 120px;
+  top: 15px;
+}
+
+.company_text {
+  position: absolute;
+  margin-left: 10px;
+  width: auto;
+  height: auto;
+  left: 180px;
+  top: 40px;
+}
+
+.menu_navbar img {
+  position: absolute;
+  max-width: 40px;
+  height: 30px;
+  left: 1370px;
+  top: 40px;
+}
+
+.firstdiv {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Hero_icon_image img {
+  position: absolute;
+  height: 550px;
+  top: 140px;
+  left: 170px;
+}
+
+.Hero_sect_text h3 {
+  position: absolute;
+  background-color: #149f39;
+  width: 250px;
+  height: 30px;
+  padding: 1px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 15px;
+  padding-top: 5px;
+  left: 780px;
+  top: 210px;
+  font-weight: 50;
+  font-family: "Roboto", sans-serif;
+}
+
+.Explore_Text h1 {
+  position: absolute;
+  margin-top: 70px;
+  width: 700px;
+  height: 300px;
+  padding: 10px;
+  color: rgb(14, 13, 13);
+  padding: 18px;
+  text-align: left;
+  font-size: 80px;
+  left: 760px;
+  top: 210px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2px;
+}
+.example_Text h2 {
+  position: absolute;
+  margin-top: 100px;
+  width: 600px;
+  height: auto;
+  padding: 18px;
+  text-align: left;
+  font-size: 12px;
+  left: 765px;
+  top: 380px;
+  font-weight: 550;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2px;
+}
+
+.explorenow {
+  position: absolute;
+  margin-top: 100px;
+  color: white;
+  background: #ffc066;
+  width: 200px;
+  border-radius: 1px;
+  border: none;
+  height: auto;
+  padding: 18px;
+  text-align: left;
+  font-size: 25px;
+  left: 785px;
+  top: 450px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2px;
+}
+
+.addvertisment {
+  position: relative;
+  display: flex;
+  margin-right: 20px;
+}
+
+.discount_image img {
+  position: absolute;
+  justify-content: center;
+  top: 780px;
+
+  right: 600px;
+}
+
+.h3_heading_add h3 {
+  position: absolute;
+  color: #010101;
+  top: 780px;
+  height: 20px;
+  width: 200px;
+  font-size: px;
+  font-weight: bold;
+  right: 390px;
+  font-family: "Roboto", sans-serif;
+}
+
+.extra_text h3 {
+  position: absolute;
+  color: #010101;
+  top: 818px;
+  right: 400px;
+  font-size: 10px;
+  font-weight: 100;
+  width: 200px;
+  font-family: "Roboto", sans-serif;
+}
+
+.fresh_helthy_food_image img {
+  position: absolute;
+  justify-content: center;
+  top: 780px;
+  left: 700px;
+}
+
+.h3_food_heading_add h3 {
+  position: absolute;
+  color: #010101;
+  top: 775px;
+  left: 775px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+}
+
+.extra_text_food h3 {
+  position: absolute;
+  color: #010101;
+  top: 818px;
+  left: 770px;
+  font-size: 10px;
+  font-weight: 100;
+  line-height: 0.7px;
+  padding: 4px;
+  font-family: "Roboto", sans-serif;
+}
+
+.fast_home_delivery_image img {
+  position: absolute;
+  justify-content: center;
+  top: 780px;
+  left: 1010px;
+}
+
+.h3_Fast_home_delivery h3 {
+  position: absolute;
+  color: #010101;
+  top: 775px;
+  left: 1090px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+}
+
+.extra_text_food h3 {
+  position: absolute;
+  color: #010101;
+  top: 818px;
+  left: 1087px;
+  font-size: 10px;
+  font-weight: 100;
+  line-height: 0.7px;
+  padding: 4px;
+  font-family: "Roboto", sans-serif;
+}
+
+.picture_section {
+  position: relative;
+}
+
+.Ourmenu {
+  position: absolute;
+  top: 900px;
+  left: 710px;
+
+  background: #149f39;
+  color: #149f39;
+  background-color: #149f39;
+}
+
+.picture_section h2 {
+  position: absolute;
+  top: 990px;
+  left: 670px;
+
+  font-size: 30px;
+  color: #000000;
+  font-family: "Roboto", sans-serif;
+}
+
+.Food_pictures {
+  position: relative;
+  display: block;
+  margin-left: 30px;
+}
+
+.first_banana_pic {
+  position: absolute;
+  top: 1120px;
+  left: 120px;
+}
+
+.daall_platter {
+  position: absolute;
+  top: 1120px;
+  left: 720px;
+}
+
+.crunch_pltter {
+  position: absolute;
+  top: 1120px;
+  left: 1010px;
+}
+
+.platter {
+  position: absolute;
+  top: 1720px;
+  left: 120px;
+}
+
+.egg {
+  position: absolute;
+  top: 1720px;
+  left: 430px;
+}
+
+.platter_sandwich {
+  position: absolute;
+  top: 1720px;
+  left: 720px;
+}
+
+.old_platter {
+  position: absolute;
+  top: 1415px;
+  left: 1010px;
+}
